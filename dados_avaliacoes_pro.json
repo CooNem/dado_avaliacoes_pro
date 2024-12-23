@@ -1,0 +1,226 @@
+[
+    {
+        "ANO": 2023,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 68,
+        "AVALIADOS": 53,
+        "PARTICIPAÇÃO (%)": 78
+    },
+    {
+        "ANO": 2023,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 68,
+        "AVALIADOS": 53,
+        "PARTICIPAÇÃO (%)": 78
+    },
+    {
+        "ANO": 2023,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 52,
+        "AVALIADOS": 43,
+        "PARTICIPAÇÃO (%)": 83
+    },
+    {
+        "ANO": 2023,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 52,
+        "AVALIADOS": 43,
+        "PARTICIPAÇÃO (%)": 83
+    },
+    {
+        "ANO": 2022,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 82,
+        "AVALIADOS": 78,
+        "PARTICIPAÇÃO (%)": 95
+    },
+    {
+        "ANO": 2022,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 82,
+        "AVALIADOS": 78,
+        "PARTICIPAÇÃO (%)": 95
+    },
+    {
+        "ANO": 2022,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 52,
+        "AVALIADOS": 46,
+        "PARTICIPAÇÃO (%)": 88
+    },
+    {
+        "ANO": 2022,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 52,
+        "AVALIADOS": 46,
+        "PARTICIPAÇÃO (%)": 88
+    },
+    {
+        "ANO": 2021,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 90,
+        "AVALIADOS": 62,
+        "PARTICIPAÇÃO (%)": 69
+    },
+    {
+        "ANO": 2021,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 90,
+        "AVALIADOS": 62,
+        "PARTICIPAÇÃO (%)": 69
+    },
+    {
+        "ANO": 2021,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 68,
+        "AVALIADOS": 25,
+        "PARTICIPAÇÃO (%)": 37
+    },
+    {
+        "ANO": 2021,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 68,
+        "AVALIADOS": 25,
+        "PARTICIPAÇÃO (%)": 37
+    },
+    {
+        "ANO": 2019,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 62,
+        "AVALIADOS": 56,
+        "PARTICIPAÇÃO (%)": 90
+    },
+    {
+        "ANO": 2019,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 62,
+        "AVALIADOS": 56,
+        "PARTICIPAÇÃO (%)": 90
+    },
+    {
+        "ANO": 2019,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 53,
+        "AVALIADOS": 49,
+        "PARTICIPAÇÃO (%)": 92
+    },
+    {
+        "ANO": 2019,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 53,
+        "AVALIADOS": 49,
+        "PARTICIPAÇÃO (%)": 92
+    },
+    {
+        "ANO": 2018,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 75,
+        "AVALIADOS": 64,
+        "PARTICIPAÇÃO (%)": 85
+    },
+    {
+        "ANO": 2018,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 75,
+        "AVALIADOS": 64,
+        "PARTICIPAÇÃO (%)": 85
+    },
+    {
+        "ANO": 2018,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 69,
+        "AVALIADOS": 53,
+        "PARTICIPAÇÃO (%)": 77
+    },
+    {
+        "ANO": 2018,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 69,
+        "AVALIADOS": 53,
+        "PARTICIPAÇÃO (%)": 77
+    },
+    {
+        "ANO": 2017,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 47,
+        "AVALIADOS": 41,
+        "PARTICIPAÇÃO (%)": 87
+    },
+    {
+        "ANO": 2017,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 47,
+        "AVALIADOS": 41,
+        "PARTICIPAÇÃO (%)": 87
+    },
+    {
+        "ANO": 2016,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 73,
+        "AVALIADOS": 60,
+        "PARTICIPAÇÃO (%)": 82
+    },
+    {
+        "ANO": 2016,
+        "ETAPA": "9º EF",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 73,
+        "AVALIADOS": 60,
+        "PARTICIPAÇÃO (%)": 82
+    },
+    {
+        "ANO": 2016,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 32,
+        "AVALIADOS": 29,
+        "PARTICIPAÇÃO (%)": 91
+    },
+    {
+        "ANO": 2016,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 32,
+        "AVALIADOS": 29,
+        "PARTICIPAÇÃO (%)": 91
+    },
+    {
+        "ANO": 2015,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Língua Portuguesa",
+        "PREVISTOS": 44,
+        "AVALIADOS": 44,
+        "PARTICIPAÇÃO (%)": 100
+    },
+    {
+        "ANO": 2015,
+        "ETAPA": "3º EM",
+        "COMPONENTE CURRICULAR": "Matemática",
+        "PREVISTOS": 44,
+        "AVALIADOS": 44,
+        "PARTICIPAÇÃO (%)": 100
+    }
+]
